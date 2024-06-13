@@ -10,4 +10,6 @@ python main.py
 python app.py
 ```
 
-## 
+## Repository
+
+The source code is saving to `Diamond-Price-Prediction` GitHub repository.
